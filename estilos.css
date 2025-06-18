@@ -1,0 +1,16 @@
+.titulo {
+  font-size: 46px;
+  color: red;
+}
+h1:not(.titulo) {
+  font-size: 36px;
+  color: blue;
+}
+h2 {
+  font-size: 36px;
+  color: blue;
+}
+p {
+  font-size: 30px;
+  color: black;
+}
